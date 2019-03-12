@@ -9,7 +9,10 @@
     "grunt-eslint": "^21.0.0",
     "grunt-htmlhint": "^0.9.13"
   },
-  "devDependencies": {},
+  "devDependencies": {
+    "grunt": "^1.0.3",
+    "grunt-eslint": "^21.0.0"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
