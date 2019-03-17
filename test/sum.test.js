@@ -16,6 +16,6 @@ describe('加法测试',function(){
   });
 
   it('"20"+5=25',function(){
-    expect(add('20',5)).to.be.equal(25);
+    expect(add("20",5)).to.be.equal(25);
   })
 });
