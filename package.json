@@ -12,7 +12,9 @@
     "grunt-contrib-uglify": "^4.0.0",
     "install": "^0.12.2"
   },
-  "devDependencies": {},
+  "devDependencies": {
+    "grunt-contrib-cssmin": "^3.0.0"
+  },
   "scripts": {
     "test": "mocha"
   },
