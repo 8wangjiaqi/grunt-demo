@@ -12,7 +12,7 @@ describe('加法测试',function(){
 
   //字符串测试
   it('"1"+"0"="1"',function(){
-    expect(add('1','0')).to.be.equal(1);
+    expect(add(1,0)).to.be.equal(1);
   });
 
   it('"20"+5=25',function(){
