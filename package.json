@@ -13,9 +13,13 @@
     "grunt-spritesmith": "^6.6.3",
     "install": "^0.12.2"
   },
+<<<<<<< HEAD
   "devDependencies": {
     "grunt-spritesmith": "^6.6.3"
   },
+=======
+  "devDependencies": {},
+>>>>>>> 8d72ff60c5dfd0ac390ba39d2e877d784ca08cb0
   "scripts": {
     "test": "mocha"
   },
